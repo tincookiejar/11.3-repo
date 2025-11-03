@@ -15,5 +15,6 @@ ai-automation-hub/
 │ ├─ prompts.py # 프롬프트 템플릿
 │ └─ pipelines.py # 오케스트레이션 파이프라인 (A2A)
 └─ scripts/
-└─ ingest.py # 문서 인덱싱 스크립트
+  └─ ingest.py # 문서 인덱싱 스크립트
+a2a rag mcp 다 넣어보고 싶어서 만든겁니다..
 ```
